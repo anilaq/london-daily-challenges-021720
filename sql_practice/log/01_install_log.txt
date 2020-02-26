@@ -1,0 +1,65 @@
+Start installing necessary packages at Wed 26 Feb 2020 09:32:50 GMT
+Installing homebrew...
+==> This script will install:
+/usr/local/bin/brew
+/usr/local/share/doc/homebrew
+/usr/local/share/man/man1/brew.1
+/usr/local/share/zsh/site-functions/_brew
+/usr/local/etc/bash_completion.d/brew
+/usr/local/Homebrew
+==> The following existing directories will be made group writable:
+/usr/local/bin
+/usr/local/share
+/usr/local/share/man
+/usr/local/share/man/man1
+/usr/local/share/man/man3
+/usr/local/share/man/man5
+/usr/local/share/man/man7
+==> The following existing directories will have their owner set to anilaqureshi:
+/usr/local/bin
+/usr/local/share
+/usr/local/share/man
+/usr/local/share/man/man1
+/usr/local/share/man/man3
+/usr/local/share/man/man5
+/usr/local/share/man/man7
+==> The following existing directories will have their group set to admin:
+/usr/local/bin
+/usr/local/share
+/usr/local/share/man
+/usr/local/share/man/man1
+/usr/local/share/man/man3
+/usr/local/share/man/man5
+/usr/local/share/man/man7
+==> The following new directories will be created:
+/usr/local/etc
+/usr/local/include
+/usr/local/lib
+/usr/local/sbin
+/usr/local/var
+/usr/local/opt
+/usr/local/share/zsh
+/usr/local/share/zsh/site-functions
+/usr/local/var/homebrew
+/usr/local/var/homebrew/linked
+/usr/local/Cellar
+/usr/local/Caskroom
+/usr/local/Homebrew
+/usr/local/Frameworks
+==> The Xcode Command Line Tools will be installed.
+
+Press RETURN to continue or any other key to abort
+==> /usr/bin/sudo /bin/chmod u+rwx /usr/local/bin /usr/local/share /usr/local/share/man /usr/local/share/man/man1 /usr/local/share/man/man3 /usr/local/share/man/man5 /usr/local/share/man/man7
+==> /usr/bin/sudo /bin/chmod g+rwx /usr/local/bin /usr/local/share /usr/local/share/man /usr/local/share/man/man1 /usr/local/share/man/man3 /usr/local/share/man/man5 /usr/local/share/man/man7
+==> /usr/bin/sudo /usr/sbin/chown anilaqureshi /usr/local/bin /usr/local/share /usr/local/share/man /usr/local/share/man/man1 /usr/local/share/man/man3 /usr/local/share/man/man5 /usr/local/share/man/man7
+==> /usr/bin/sudo /usr/bin/chgrp admin /usr/local/bin /usr/local/share /usr/local/share/man /usr/local/share/man/man1 /usr/local/share/man/man3 /usr/local/share/man/man5 /usr/local/share/man/man7
+==> /usr/bin/sudo /bin/mkdir -p /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /bin/chmod g+rwx /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /bin/chmod 755 /usr/local/share/zsh /usr/local/share/zsh/site-functions
+==> /usr/bin/sudo /usr/sbin/chown anilaqureshi /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /usr/bin/chgrp admin /usr/local/etc /usr/local/include /usr/local/lib /usr/local/sbin /usr/local/var /usr/local/opt /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew /usr/local/var/homebrew/linked /usr/local/Cellar /usr/local/Caskroom /usr/local/Homebrew /usr/local/Frameworks
+==> /usr/bin/sudo /bin/mkdir -p /Users/anilaqureshi/Library/Caches/Homebrew
+==> /usr/bin/sudo /bin/chmod g+rwx /Users/anilaqureshi/Library/Caches/Homebrew
+==> /usr/bin/sudo /usr/sbin/chown anilaqureshi /Users/anilaqureshi/Library/Caches/Homebrew
+==> Searching online for the Command Line Tools
+==> /usr/bin/sudo /usr/bin/touch /tmp/.com.apple.dt.CommandLineTools.installondemand.in-progress
